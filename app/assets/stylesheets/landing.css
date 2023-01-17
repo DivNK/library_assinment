@@ -1,0 +1,28 @@
+body{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+align-items: center;
+    flex-direction: column;
+    background-color: beige;
+   
+   
+    padding: 20px;
+}
+
+body>p
+{
+    height: 55%;
+    width: 63%;
+    text-align: justify;
+
+}
+body>div{
+    height: 345px;
+    width: 63%;
+    background-image: url("logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:bottom right ;
+}
