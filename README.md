@@ -1,24 +1,12 @@
-# README
+<!-- Graded Assignment on Creating the User Login Page
+Create a User account creation and login API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create API for user account creation by taking the following parameters
 
-Things you may want to cover:
+a. user email
+b. user name
+c. user password
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Controller created to Display book details only if logged in
+Controller to login and logout.
+Controller to add user -->
