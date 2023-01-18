@@ -15,5 +15,7 @@ Rails.application.routes.draw do
   get "UpdateBook" , to:"book#modify"
   get "DeleteBook" , to:"book#delete"
   get "Logout" , to:"logout#index"
+  get "SearchName" , to:"searchbookname#index"
+  get "SearchAuthor" , to:"searchbookauthor#index"
 
 end
